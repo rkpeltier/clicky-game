@@ -3,73 +3,73 @@
       "id": 1,
       "name": "IL DIAVOLO",
       "image":
-        "./public/images/ildiavolo.jpg"
+        "images/ildiavolo.jpg"
     },
     {
         "id": 2,
         "name": "IL FUSCO/LA LUCE",
         "image":
-          "./public/images/ilfuscolaluce.jpg"
+          "images/ilfuscolaluce.jpg"
       },
       {
         "id": 3,
         "name": "IL MONDE",
         "image":
-          "./public/images/ilmonde.jpg"
+          "images/ilmonde.jpg"
       },
       {
         "id": 4,
         "name": "IL PAPA",
         "image":
-          "./public/images/ilpapa.jpg"
+          "images/ilpapa.jpg"
       },
       {
         "id": 5,
         "name": "IL PAZZO",
         "image":
-          "./public/images/ilpazzo.jpg"
+          "images/ilpazzo.jpg"
       },
       {
         "id": 6,
         "name": "LA LUNA",
         "image":
-          "./public/images/laluna.jpg"
+          "images/laluna.jpg"
       },
       {
         "id": 7,
-        "name": "LA LUOTO",
+        "name": "LA LUOTA",
         "image":
-          "./public/images/laluoto.jpg"
+          "images/laluota.jpg"
       },
       {
         "id": 8,
         "name": "LA STELLA",
         "image":
-          "./public/images/lastella.jpg"
+          "images/lastella.jpg"
       },
       {
         "id": 9,
         "name": "LA TORRE",
         "image":
-          "./public/images/latorre.jpg"
+          "images/latorre.jpg"
       },
       {
         "id": 10,
-        "name": "L' Elmita",
+        "name": "L' ELMITA",
         "image":
-          "./public/images/lelmita.jpg"
+          "images/lelmita.jpg"
       },
       {
         "id": 11,
         "name": "LA MORTE",
         "image":
-          "./public/images/lamorte.jpg"
+          "images/lamorte.jpg"
       },
       {
         "id": 12,
         "name": "LA FORZA",
         "image":
-          "./public/images/laforze.jpg"
+          "images/laforza.jpg"
       }
   ]
   

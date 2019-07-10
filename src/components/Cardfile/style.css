@@ -1,0 +1,21 @@
+.card > .img-container {
+  height: 100%;
+}
+
+img {
+  height: 340px;
+  width: 200px;
+}
+
+.card > .remove {
+  color: #ff1744;
+  font-size: 48px;
+  position: absolute;
+  top: -20px;
+  right: 5px;
+  cursor: pointer;
+}
+
+.card > .remove:hover {
+  color: #d50000;
+}

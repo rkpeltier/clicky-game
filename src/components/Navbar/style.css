@@ -1,0 +1,20 @@
+.guess {
+    color: black;
+    font-family: 'Changa', sans-serif;
+    font-weight: bold;
+    font-size: 16pt;
+}
+
+#game-name {
+    color: black;
+    font-family: 'IM Fell DW Pica SC', serif;
+    font-size: 24pt;
+}
+
+#game-name:hover {
+    text-decoration: none;
+}
+
+#tarotbg {
+    background-color: #1e8feb;
+}
