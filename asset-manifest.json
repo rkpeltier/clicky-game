@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/tarot-shuffle/static/css/main.ac48fd1d.chunk.css",
-    "main.js": "/tarot-shuffle/static/js/main.cce1a963.chunk.js",
-    "main.js.map": "/tarot-shuffle/static/js/main.cce1a963.chunk.js.map",
-    "runtime~main.js": "/tarot-shuffle/static/js/runtime~main.8b8d33b5.js",
-    "runtime~main.js.map": "/tarot-shuffle/static/js/runtime~main.8b8d33b5.js.map",
-    "static/js/2.5cb12968.chunk.js": "/tarot-shuffle/static/js/2.5cb12968.chunk.js",
-    "static/js/2.5cb12968.chunk.js.map": "/tarot-shuffle/static/js/2.5cb12968.chunk.js.map",
-    "index.html": "/tarot-shuffle/index.html",
-    "precache-manifest.adcc7fd693a0077faaa34daaa3648106.js": "/tarot-shuffle/precache-manifest.adcc7fd693a0077faaa34daaa3648106.js",
-    "service-worker.js": "/tarot-shuffle/service-worker.js",
-    "static/css/main.ac48fd1d.chunk.css.map": "/tarot-shuffle/static/css/main.ac48fd1d.chunk.css.map"
+    "main.css": "/clicky-game/static/css/main.ac48fd1d.chunk.css",
+    "main.js": "/clicky-game/static/js/main.87800442.chunk.js",
+    "main.js.map": "/clicky-game/static/js/main.87800442.chunk.js.map",
+    "runtime~main.js": "/clicky-game/static/js/runtime~main.27874bd3.js",
+    "runtime~main.js.map": "/clicky-game/static/js/runtime~main.27874bd3.js.map",
+    "static/js/2.5cb12968.chunk.js": "/clicky-game/static/js/2.5cb12968.chunk.js",
+    "static/js/2.5cb12968.chunk.js.map": "/clicky-game/static/js/2.5cb12968.chunk.js.map",
+    "index.html": "/clicky-game/index.html",
+    "precache-manifest.0ae353716a21a2e3cecb465cedf520b4.js": "/clicky-game/precache-manifest.0ae353716a21a2e3cecb465cedf520b4.js",
+    "service-worker.js": "/clicky-game/service-worker.js",
+    "static/css/main.ac48fd1d.chunk.css.map": "/clicky-game/static/css/main.ac48fd1d.chunk.css.map"
   }
 }
